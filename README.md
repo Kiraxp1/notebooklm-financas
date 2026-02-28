@@ -21,7 +21,7 @@ Desenvolver pensamento crítico sobre comportamento e decisões financeiras.
 
 Foram selecionadas cinco fontes abertas em formato texto ou PDF relacionadas à educação financeira, comportamento financeiro e investimentos introdutórios.
 
-(Substituir aqui pelos nomes exatos das suas 5 fontes.)
+....
 
  Metodologia:
 
