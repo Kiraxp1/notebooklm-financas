@@ -5,7 +5,7 @@ Este projeto foi desenvolvido como parte de uma atividade acadêmica com o objet
 
 O foco do trabalho foi demonstrar o uso crítico e organizado da inteligência artificial como apoio ao processo de construção do conhecimento.
 
- Objetivos de Estudo
+  Objetivos de Estudo:
 
 Compreender os fundamentos da educação financeira.
 
@@ -17,13 +17,13 @@ Aprender princípios básicos de organização financeira.
 
 Desenvolver pensamento crítico sobre comportamento e decisões financeiras.
 
- Fontes Utilizadas
+ Fontes Utilizadas:
 
 Foram selecionadas cinco fontes abertas em formato texto ou PDF relacionadas à educação financeira, comportamento financeiro e investimentos introdutórios.
 
 (Substituir aqui pelos nomes exatos das suas 5 fontes.)
 
- Metodologia
+ Metodologia:
 
 A atividade foi estruturada nas seguintes etapas:
 
