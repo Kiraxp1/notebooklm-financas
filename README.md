@@ -19,9 +19,12 @@ Desenvolver pensamento crítico sobre comportamento e decisões financeiras.
 
  Fontes Utilizadas:
 
-Foram selecionadas cinco fontes abertas em formato texto ou PDF relacionadas à educação financeira, comportamento financeiro e investimentos introdutórios.
+Fonte Video:
+https://youtu.be/WVTAMG3dmJg?list=TLGG6ZhqRgPd_xMyODAyMjAyNg
 
-....
+Fonte site (texto)
+wikipedia:
+https://pt.wikipedia.org/wiki/Finan%C3%A7as#bodyContent
 
  Metodologia:
 
