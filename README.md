@@ -9,5 +9,7 @@ Desenvolver organização e consciência financeira
  |Metodologia
 O estudo foi conduzido por meio da definição de objetivos, elaboração de perguntas, testes de variações de prompts e organização das respostas em formato estruturado.
 
-🔗 Acesso
+🔗 Acesso ao notbookLM
 
+
+https://notebooklm.google.com/notebook/65dd54f5-78d0-4fbb-a485-38d9478e9959
