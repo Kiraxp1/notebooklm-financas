@@ -1,6 +1,7 @@
   |Sobre o Projeto
 Este projeto utiliza o NotebookLM como ferramenta de apoio ao estudo de educação financeira. A proposta foi organizar um caderno estruturado com objetivos claros, perguntas estratégicas, testes de prompts e produção de um mini-guia prático.
-  |Objetivos
+  
+|Objetivos
 Entender os fundamentos da educação financeira
 Diferenciar ativos e passivos
 Compreender a importância da reserva de emergência
